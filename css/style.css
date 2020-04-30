@@ -1,0 +1,33 @@
+table {
+background-color: blueviolet;
+color: white;
+}
+#head{
+    text-align: center;
+}
+h1,h2{
+    color:rgb(108, 17, 194);  
+}
+#thank{
+color: rgb(3, 124, 3);
+opacity: 0.8;
+font-size: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.align{
+text-align: center;
+}
+
+input[type="tel"]{
+    width: 40%;
+}
+
+a:focus{
+    color: blueviolet; 
+}
+
+#img{
+    object-fit: none;
+    width: 190px;
+}
